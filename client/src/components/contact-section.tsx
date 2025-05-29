@@ -84,7 +84,7 @@ export function ContactSection() {
             <Card>
               <CardContent className="p-6">
                 <h3 className="font-display text-xl font-semibold text-gray-900 dark:text-white mb-4">
-                  Digimaatwerk Siroperij
+                  Pluk & Poot Siroperij
                 </h3>
                 
                 <div className="space-y-4">
@@ -110,7 +110,7 @@ export function ContactSection() {
                     <Mail className="text-purple-500 mt-1 w-5 h-5" />
                     <div>
                       <p className="text-gray-900 dark:text-white font-medium">Email</p>
-                      <p className="text-gray-600 dark:text-gray-400">info@digimaatwerk-siroop.nl</p>
+                      <p className="text-gray-600 dark:text-gray-400">dckessler95@gmail.com</p>
                     </div>
                   </div>
                   
