@@ -48,7 +48,6 @@ export default function ChickenShoyuRamen() {
                 <CardContent className="p-4 text-center">
                   <Users className="w-8 h-8 text-amber-600 mx-auto mb-2" />
                   <p className="text-sm font-medium">Max 12 personen</p>
-                  <p className="text-xs text-gray-600 dark:text-gray-400">Intieme ervaring</p>
                 </CardContent>
               </Card>
             </div>
@@ -114,7 +113,7 @@ export default function ChickenShoyuRamen() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-between mb-4">
                   <div>
-                    <p className="text-2xl font-bold">€25,00 per persoon</p>
+                    <p className="text-2xl font-bold">€12,50 per persoon</p>
                     <p className="text-amber-100">Inclusief alle ingrediënten</p>
                   </div>
                   <Calendar className="w-8 h-8 text-amber-100" />
@@ -152,8 +151,7 @@ export default function ChickenShoyuRamen() {
                 <li>• Minimum 6 personen, maximum 12 personen per sessie</li>
                 <li>• Reservering wordt automatisch bevestigd bij 6+ deelnemers</li>
                 <li>• Geschikt voor alle leeftijden en diëten (vegetarische optie beschikbaar)</li>
-                <li>• Annulering tot 48 uur van tevoren mogelijk</li>
-                <li>• Alle benodigde materialen worden verzorgd</li>
+                <li>• Annulering tot 24 uur van tevoren mogelijk</li>
               </ul>
             </div>
           </div>
