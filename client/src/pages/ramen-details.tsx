@@ -128,7 +128,7 @@ export default function RamenDetails() {
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-purple-500 rounded-full mt-2 mr-3 flex-shrink-0"></div>
                     <div>
-                      <strong>Verse ramen noedels</strong> - Gemaakt door Damian bij hand.
+                      <strong>Verse ramen noedels</strong> - Gemaakt door Damian met de hand.
                     </div>
                   </li>
                   <li className="flex items-start">
@@ -266,7 +266,7 @@ export default function RamenDetails() {
                 <ul className="text-red-800 dark:text-red-200 text-sm space-y-2">
                   <li>• Alleen beschikbaar op vrijdagen</li>
                   <li>• Maximaal 12 personen per sessie</li>
-                  <li>• Minimaal 2 dagen van tevoren bestellen</li>
+                  <li>• Minimaal 4 dagen van tevoren bestellen</li>
                 </ul>
                 <ul className="text-red-800 dark:text-red-200 text-sm space-y-2">
                   <li>• Bij annulering binnen 24 uur geen terugbetaling</li>
