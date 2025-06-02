@@ -93,7 +93,7 @@ export function ContactSection() {
                     <div>
                       <p className="text-gray-900 dark:text-white font-medium">Adres</p>
                       <p className="text-gray-600 dark:text-gray-400">
-                        Star Numanstraat<br/>9717JE Groningen
+                        Star Numanstraat<br/>9714JL Groningen
                       </p>
                     </div>
                   </div>
