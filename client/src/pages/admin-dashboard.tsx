@@ -735,7 +735,7 @@ export default function AdminDashboard() {
                       <div className="flex justify-between items-center mb-4">
                         <div>
                           <h3 className="text-lg font-semibold">
-                            {new Date(date).toLocaleDateString('nl-NL', { 
+                            {new Date(date + 'T12:00:00').toLocaleDateString('nl-NL', { 
                               weekday: 'long', 
                               year: 'numeric', 
                               month: 'long', 
