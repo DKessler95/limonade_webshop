@@ -223,8 +223,8 @@ export default function RamenDetails() {
                 </div>
                 <h3 className="font-semibold text-purple-900 dark:text-purple-100 mb-3">3. Ophalen</h3>
                 <p className="text-sm text-gray-600 dark:text-gray-300">
-                  Haal je bestelling af op de afgesproken tijd. Alles is warm verpakt 
-                  en klaar om mee te nemen en direct te eten.
+                  Haal je bestelling af op de afgesproken tijd. Alles is verpakt 
+                  en klaar om mee te nemen. Gemakkelijk thuis klaar te maken met bijgeleverde instructies.
                 </p>
               </div>
             </div>
@@ -271,7 +271,6 @@ export default function RamenDetails() {
                 <ul className="text-red-800 dark:text-red-200 text-sm space-y-2">
                   <li>• Bij annulering binnen 24 uur geen terugbetaling</li>
                   <li>• Elke kom wordt vers bereid volgens Japanse traditie</li>
-                  <li>• Prijs: €12,50 per persoon (bezorging +€1)</li>
                 </ul>
               </div>
             </div>
