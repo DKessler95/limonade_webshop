@@ -17,7 +17,7 @@ Een moderne e-commerce website voor artisanale siropen en ramen pre-orders, geve
 - **Database**: PostgreSQL met Drizzle ORM
 - **Email**: Mailjet API
 - **State Management**: TanStack Query
-- **Routing**: Wouter
+- **Routing**: Damian
 
 ## Installatie
 
